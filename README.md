@@ -1,4 +1,4 @@
-# cc_fraud_detection
+# credit-card-fraud-detection
 
 Explored the Credit Card Transactions Fraud Detection Dataset from Kaggle and trained different classification models to detect credit card fraud.
 
